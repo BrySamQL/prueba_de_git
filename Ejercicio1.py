@@ -10,3 +10,9 @@ class Libro:
 
 class persona:
     pass
+
+class gerson2022():
+    pass 
+
+class gerson3():
+    pass
