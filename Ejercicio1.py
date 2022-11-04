@@ -31,3 +31,8 @@ class neweli1:
 class gerson:
     print("este es mi commit de prueba viernes")
     pass
+
+class gerson2:
+    print("este es mi commit de prueba viernes2")
+    pass
+
