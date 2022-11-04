@@ -36,3 +36,7 @@ class gerson2:
     print("este es mi commit de prueba viernes2")
     pass
 
+class gerson3:
+    print("este es mi commit de prueba viernes3")
+    pass
+
