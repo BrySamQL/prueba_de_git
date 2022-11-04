@@ -1,1 +1,43 @@
+print("Empezamos")
+print("Paso 1")
+
+print(" hola esta es una prueba")
+print("eli")
+
+class Libro:
+    print("hola sss")
+    pass
+
+class persona:
+    pass
+
+class gerson2022():
+    pass 
+
+class gerson3():
+    pass
+
+class gerson4():
+    pass
+
+class neweli:
+    print("elisss")
+    pass
+
+class neweli1:
+    print("estoy probando llamar de la ramae")
+    pass
+
+class gerson:
+    print("este es mi commit de prueba viernes")
+    pass
+
+class gerson2:
+    print("este es mi commit de prueba viernes2")
+    pass
+
+class gerson3:
+    print("este es mi commit de prueba viernes3")
+    pass
+
 
