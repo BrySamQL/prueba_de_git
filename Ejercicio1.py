@@ -25,5 +25,5 @@ class neweli:
     pass
 
 class neweli1:
-    print("estoy oribando llamar de la ramae")
+    print("estoy probando llamar de la ramae")
     pass
