@@ -8,3 +8,5 @@ class Libro:
     print("hola sss")
     pass
 
+class persona:
+    pass
