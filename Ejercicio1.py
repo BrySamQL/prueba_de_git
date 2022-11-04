@@ -19,3 +19,7 @@ class gerson3():
 
 class gerson4():
     pass
+
+class neweli:
+    print("elisss")
+    pass
