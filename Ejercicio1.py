@@ -23,3 +23,7 @@ class gerson4():
 class neweli:
     print("elisss")
     pass
+
+class neweli1:
+    print("estoy oribando llamar de la ramae")
+    pass
