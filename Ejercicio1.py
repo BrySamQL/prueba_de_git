@@ -27,3 +27,7 @@ class neweli:
 class neweli1:
     print("estoy probando llamar de la ramae")
     pass
+
+class gerson:
+    print("este es mi commit de prueba viernes")
+    pass
