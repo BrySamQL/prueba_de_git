@@ -67,3 +67,13 @@ class gerson9:
 class gerson10:
     print("prueba10")
     pass
+
+class gerson11:
+    print("prueba11")
+    pass
+
+class gerson12:
+    print("prueba12")
+    pass
+
+
