@@ -47,3 +47,7 @@ class gerson4:
 class gerson5:
     print("prueba5")
     pass
+
+class gerson6:
+    print("prueba5")
+    pass
