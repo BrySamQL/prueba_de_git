@@ -76,4 +76,3 @@ class gerson12:
     print("prueba12")
     pass
 
-
