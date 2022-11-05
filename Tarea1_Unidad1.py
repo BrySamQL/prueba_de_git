@@ -22,6 +22,7 @@ def seleccionar_menu(a):
         print("editar libro")
     elif a==9:
         print("guardar libros")
+        print("imprimir prueba")
     else:
         print("Opción no disponible")
     
